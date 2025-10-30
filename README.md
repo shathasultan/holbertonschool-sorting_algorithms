@@ -1,4 +1,4 @@
-# 0x1B. C - Sorting Algorithms & Big O
+# C - Sorting Algorithms & Big O
 
 ## Written By
 **Sarah & Shatha**
